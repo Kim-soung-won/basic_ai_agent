@@ -3,12 +3,6 @@
 `python -m virtualenv venv`
 `.\venv\Scripts\activate` (windows)
 
-## 설치
-`pip install crewai crewai-tools`
-
-## 의존성 파일 생성
-`.\venv\Scripts\pip freeze`
-
 ## 실행
 `.\venv\Scripts\python crew_ai.py`
 

@@ -1,2 +1,5 @@
 crewai==1.9.3
-litellm==1.81.5
+crewai_tools==1.9.3
+ipython==8.12.3
+pandas==3.0.0
+yfinance==1.1.0
